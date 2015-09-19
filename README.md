@@ -4,7 +4,7 @@ Game code is an OSS project, created by ShieldBlock Inc, aiming to bring togethe
 
 ## History
 - 11/05/2015 - Initial version of the Game:code.
-- 16/05/2015 - Presetting basic functions of detection of the Game: code.
+- 16/05/2015 - Presetting basic functions of detection of the Game:code.
 
 ## Features
 - Detections
@@ -17,5 +17,5 @@ Game code is an OSS project, created by ShieldBlock Inc, aiming to bring togethe
 
 ## Thanks
 - Jorge Vargas - Turboc
-- Matuzalém Teles
+- Matuzalém S. Teles
 - VertexBrasil
